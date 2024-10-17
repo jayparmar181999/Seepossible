@@ -1,0 +1,13 @@
+@container-width: 1600px; 
+
+.page-wrapper {
+    max-width: @container-width; 
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+@media (max-width: @container-width) {
+    .page-wrapper {
+        max-width: 100%; 
+    }
+}
