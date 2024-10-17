@@ -1,0 +1,6 @@
+Step 01 :: Log in to your Magento Admin panel.
+Step 02 :: Navigate to Catalog > Categories > Women.
+Step 03 :: On the Category Edit page, click the Design tab on the left panel.
+Step 04 :: Under the Layout dropdown, select 2 columns with right bar
+
+thank clear the Magento cache  
